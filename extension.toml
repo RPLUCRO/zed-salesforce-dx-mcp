@@ -1,0 +1,10 @@
+id = "mcp-salesforce"
+name = "Salesforce DX MCP"
+version = "0.1.0"
+schema_version = 1
+authors = ["Ryan Phillips <ryanlucro-consulting.com>"]
+description = "Expose the Salesforce DX MCP server in Zed"
+repository = "https://github.com/rplucro/zed-mcp-salesforce"
+
+# Register one MCP context server with id "salesforce"
+[context_servers.salesforce]

@@ -1,0 +1,14 @@
+/Users/rplucro/Documents/GitHub/zed-salesforce-mcp/target/release/deps/serde-c99cc5007548c00d.d: /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /Users/rplucro/Documents/GitHub/zed-salesforce-mcp/target/release/build/serde-23dae91a4484d893/out/private.rs
+
+/Users/rplucro/Documents/GitHub/zed-salesforce-mcp/target/release/deps/libserde-c99cc5007548c00d.rlib: /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /Users/rplucro/Documents/GitHub/zed-salesforce-mcp/target/release/build/serde-23dae91a4484d893/out/private.rs
+
+/Users/rplucro/Documents/GitHub/zed-salesforce-mcp/target/release/deps/libserde-c99cc5007548c00d.rmeta: /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /Users/rplucro/Documents/GitHub/zed-salesforce-mcp/target/release/build/serde-23dae91a4484d893/out/private.rs
+
+/Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs:
+/Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs:
+/Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs:
+/Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs:
+/Users/rplucro/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs:
+/Users/rplucro/Documents/GitHub/zed-salesforce-mcp/target/release/build/serde-23dae91a4484d893/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/rplucro/Documents/GitHub/zed-salesforce-mcp/target/release/build/serde-23dae91a4484d893/out

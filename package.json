@@ -1,0 +1,14 @@
+{
+  "name": "salesforce-mcp",
+  "version": "0.1.0",
+  "description": "Salesforce MCP Extension for Zed",
+  "author": "R Plucro",
+  "contributes": {
+    "context_servers": [
+      {
+        "name": "salesforce",
+        "display_name": "Salesforce MCP"
+      }
+    ]
+  }
+}
