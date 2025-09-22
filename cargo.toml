@@ -7,4 +7,4 @@ edition = "2021"
 crate-type = ["cdylib"]
 
 [dependencies]
-zed_extension_api = "0.1"   # use latest compatible version listed in docs
+zed_extension_api = "0.7"   # use latest compatible version listed in docs

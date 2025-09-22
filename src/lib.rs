@@ -1,4 +1,4 @@
-use zed_extension_api::{self as zed, LanguageServerId};
+use zed_extension_api::{self as zed, ContextServerId};
 
 struct SalesforceMcp;
 
@@ -7,14 +7,14 @@ impl zed::Extension for SalesforceMcp {
         Self
     }
 
-    fn language_server_command(
+    fn context_server_command(
         &mut self,
-        language_server_id: &LanguageServerId,
-        _worktree: &zed::Worktree,
+        context_server_id: &ContextServerId,
+        _project: &zed::Project,
     ) -> Result<zed::Command, String> {
         // We only registered one server: "salesforce"
-        if language_server_id.to_string() != "salesforce" {
-            return Err("unknown language server id".into());
+        if context_server_id.as_ref() != "salesforce" {
+            return Err("unknown context server id".into());
         }
 
         // Build: npx -y @salesforce/mcp --orgs DEFAULT_TARGET_ORG --toolsets all
